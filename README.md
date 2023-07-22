@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on Portfolio Personal Website
-- 🌱 I’m currently learning DSA
+- 🔭 I’m currently working on LOGIN AND AUTH USING PHP AND MYSQL
+- 🌱 I’m currently learning REACT.js
 
 
 
