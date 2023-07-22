@@ -10,7 +10,7 @@
 ### :hammer_and_wrench: Languages and Tools I USE:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,c++,py,java,js,html,css,react,sass,tailwind,php,netlify,mysql,materialui,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,c++,py,java,js,html,css,react,sass,tailwind,php,netlify,mysql,materialui,linux&perline=5" />
   </a>
 </p>
 
