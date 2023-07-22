@@ -17,9 +17,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>
   
-  
-  
-  
 </div>
 
 ### :fire: My Stats :
@@ -27,6 +24,9 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inyCation&hide_progress=false)
+
+![WakaTime Badge](https://wakatime.com/badge/waka_b5f8d2c7-91eb-449e-817e-cd84dde1cf68)
+
 
 ### Connect With Me: 
 <span> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="20" height="20" /> 
