@@ -8,6 +8,11 @@
 
 
 ### :hammer_and_wrench: Languages and Tools I USE:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,c++,pyton,java,javascript,reactjs," />
+  </a>
+</p>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" **alt="Python" width="40" height="40"/>
