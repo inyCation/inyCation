@@ -25,6 +25,10 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=inyCation&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727)](https://git.io/streak-stats)
 
+![Deeapk's GitHub stats](https://github-readme-stats.vercel.app/api?username=inyCation&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inyCation&hide_progress=true)
+
 ### Connect With Me: 
 <span> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="20" height="20" /> 
   <a href="https://www.linkedin.com/in/deepak024/"> LINKEDIN </a>
