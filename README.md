@@ -18,7 +18,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inyCation&hide_progress=false)
 
 ### Connect With Me: 
-<span> <img src="https://skillicons.dev/icons?i=linkedin" /> <a href="[https://skillicons.dev](https://www.linkedin.com/in/deepak024/) ></a>  <span> 
+<span> <img src="https://skillicons.dev/icons?i=linkedin" /> <a href="https://skillicons.dev](https://www.linkedin.com/in/deepak024/" >here</a>  <span> 
 ### UwU:
 <img src="https://komarev.com/ghpvc/?username=inyCation&style=flat-square&color=blue" alt=""/>
 
