@@ -14,8 +14,7 @@
 
 
 
-### HAVE SOME.
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 
 ### Connect With Me: 
 <span> <img src="https://skillicons.dev/icons?i=linkedin" /> <span> <a href="https://www.linkedin.com/in/deepak024/" >click here</a>
