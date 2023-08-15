@@ -21,3 +21,4 @@
 ### UwU:
 <img src="https://komarev.com/ghpvc/?username=inyCation&style=flat-square&color=blue" alt=""/>
 
+[![wakatime](https://wakatime.com/badge/user/55f82f7b-e776-4052-a6fd-62ae11e549ab.svg)](https://wakatime.com/@55f82f7b-e776-4052-a6fd-62ae11e549ab)
