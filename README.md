@@ -4,16 +4,13 @@
 
 ### :hammer_and_wrench: Languages and Tools I USE:
 
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=git,github,c,cpp,c++,py,java,js,html,css,react,sass,tailwind,php,netlify,mysql,materialui,linux&perline=5" />
   </a>
 
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=inyCation&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727)](https://git.io/streak-stats)
-
-
-
 
 
 ### Connect With Me: 
